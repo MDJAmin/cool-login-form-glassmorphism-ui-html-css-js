@@ -1,9 +1,10 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
+body {
+    background: linear-gradient(45deg, #c3ff00, #002aff);
+    height: 100%;
+    font-family: "Montserrat", sans-serif;
+  }
+  
 .container {
     position: absolute;
     transform: translate(-50%, -50%);
